@@ -1,0 +1,6 @@
+a) 9 - Numeros ímpares;
+b) 128 - Expoentes de 2;
+c) 49 - O quadrado do número em questão;
+d) 100 - 4+(12+(n*8));
+e) 13 - Sequencia de Fibonacci;
+f) 20 - Será somado 1 ao final.
